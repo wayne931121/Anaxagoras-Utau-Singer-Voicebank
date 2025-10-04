@@ -10,3 +10,6 @@ Gimp2.6
 ```
 
 Utau download link: https://utau2008.xrea.jp/
+
+# 製作OpenUtau的歌手
+https://youtu.be/nmhWL4OYP2Q?si=qbXeoYDQ2R839APr
